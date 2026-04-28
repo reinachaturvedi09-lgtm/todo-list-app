@@ -1,0 +1,56 @@
+#  To-Do List App
+
+A simple and responsive To-Do List web application built using **HTML, CSS, and JavaScript** to manage daily tasks efficiently.
+
+
+##  Live Demo
+
+ https://reinachaturvedi09-lgtm.github.io/todo-list-app
+
+
+##  Features
+
+*  Add new tasks
+*  Mark tasks as completed (click on task)
+*  Delete tasks
+*  Saves tasks using Local Storage
+*  Clean and modern dark UI
+
+
+
+##  Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+
+##  Project Structure
+
+todo-list-app/
+│── index.html
+│── assets/
+│   └── screenshot.png
+```
+
+---
+
+##  How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+---
+
+
+
+##  Connect With Me
+
+* GitHub: https://github.com/reinachaturvedi09-lgtm
+
+---
+
+##  Author
+
+Reina Chaturvedi
+
